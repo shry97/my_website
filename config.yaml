@@ -1,0 +1,43 @@
+title: Personal website for Sherington Amarapala
+baseURL: https://example.com/
+theme: hugo-resume
+languageCode: en-us
+PygmentsCodeFences: yes
+PygmentsCodeFencesGuessSyntax: yes
+PygmentsStyle: monokai
+enableGitInfo: no
+params:
+  address: London, UK / Oslo, Norway
+  email: sherington.amarapala@gmail.com
+  favicon: /favicon.ico
+  firstName: Sherington
+ # google:
+  #  analytics:
+   #   trackerID: XX-123446-01
+  handles:
+    - link: https://www.linkedin.com/in/sherington/
+      name: LinkedIn
+    - link: https://github.com/shry97/
+      name: GitHub
+    - link: https://www.facebook.com/shry97/
+      name: Facebook
+    - link: https://www.instagram.com/shry97/
+      name: Instagram
+    - link: https://www.snapchat.com/add/shry97?share_id=NDZERDAx&locale=en_NO
+      name: Snapchat
+  lastName: Amarapala
+  phone: (0) 7851 640583
+  profileImage: img/profile_pic.jpeg
+  showEducation: yes
+  showExperience: yes
+  showOpenSource: no
+  showProjects: yes
+  showPublications: yes
+  showQr: no
+  showSkills: yes
+outputs:
+  home:
+    - HTML
+    - JSON
+taxonomies:
+  tag: tags
