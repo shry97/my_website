@@ -1,24 +1,22 @@
 [
-{
-"school":"[London Business School]([https://www.london.edu/](https://www.london.edu/))",
-"degree":"Masters of Science",
-"major":"Financial Analysis (MFA)",
-"notes":"ExCo: Social Impact Investing Fund, SnowClub",
-"range":"2021 - 2023"
-},
-{
-"school":"[Minerva University]([https://www.minerva.edu/](https://www.minerva.edu/))",
-"degree":"Bachelors of Science",
-"major":"Economics, Finance and Management",
-"notes":"\n- GPA 3.9/4.0\n- Minerva is the most selective university in the US with an acceptance rate of 1.9%\n- Lived in San Francisco, Seoul, Hyderabad, Berlin, Buenos Aires, and London\n- Teaching assistant in the course Brand Management: Product Evolution and Reinvention"
-"range":"2016 - 2020"
-}
-
-{
-"school":"[Elvebakken High School]([https://elvebakken.vgs.no/](https://elvebakken.vgs.no/))",
-"degree":"General Studies",
-"major":"Mathematics, Physics, and Economics",
-"notes":"\n- GPA 6.06/6\n- Most competitive high school in Norway with an admissions threshold of GPA 5.1/6\n- Graduated as one of the top students, with a Norwegian GPA of 6.1/6 (98th percentile nationwide)\n- Advanced level courses in Physics, Economics, and Mathematics"
-"range":"2013 - 2016"
-}
+    {
+        "school":"[London Business School](https://www.london.edu/)",
+        "degree":"Masters of Science",
+        "major":"Financial Analysis (MFA)",
+        "notes":"ExCo: Social Impact Investing Fund, SnowClub",
+        "range":"2021 - 2023"
+    },
+    {
+        "school":"Clinton Community College",
+        "degree":"Associate of Applied Science",
+        "major":"Computer Information Systems",
+        "notes": "just checking if this works",
+        "range":"2004 - 2006"
+    },
+    {
+        "school":"Clinton Community College",
+        "degree":"Associate of Applied Science",
+        "major":"Computer Information Systems",
+        "range":"2004 - 2006"
+    }
 ]
