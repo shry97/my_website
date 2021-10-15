@@ -1,5 +1,5 @@
 title: Personal website for Sherington Amarapala
-baseURL: https://example.com/
+baseURL: "https://sherington.netlify.app/""
 theme: hugo-resume
 languageCode: en-us
 PygmentsCodeFences: yes
