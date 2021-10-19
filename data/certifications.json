@@ -1,23 +1,33 @@
 [
-	{
-		"name":"AWS Solutions Architect",
-		"description": "AWS Certified Solutions Architect – Associate",
-		"badge":"https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png",
-		"proof":"https://www.credly.com/badges/9c168644-e23c-4605-9d98-91b5db56e6c9"
+{
+"name":"THINC Fellowship",
+"description": "THINC Fellowship program in collaboration with Tencent",
+"badge":"https://drive.google.com/uc?id=1ViZfKQqYkySHX6prJerLKekS0Odv-5vt",
+"proof":"https://www.thincfellowship.today/welcome?pgid=kq7ux34l-96440151-c6a6-4500-802d-900736d51e47"
+},
+{
+	"name":"Aspire Academy",
+	"description": "Aspire Academy leadership program in Romania",
+	"badge":"<https://drive.google.com/uc?id=1OogXYlNGwjVJpJ-bQF-HKQiBqCog-mdd>",
+	"proof":"<https://www.aspireacademy.ro/>"
 
-	},
-	{
-		"name":"ACP-JSD",
-		"description": "Jira Service Desk Administator",
-		"badge":"https://www.certmetrics.com/api/ob/image/atlassian/c/4/",
-		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=4&t=c&d=2020-05-11&ci=AT00143196"
-
-	},
-	{
-		"name":"ACP-JCA",
-		"description": "Jira Cloud Administator",
-		"badge":"https://www.certmetrics.com/api/ob/image/atlassian/c/26/",
-		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=26&t=c&d=2020-08-07&ci=AT00143196"
-		
-	}
+},
+{
+	"name":"Global-In Fellowship",
+	"description": "U.S. Embassy sponsored diplomacy and leadership program in Germany",
+	"badge":"<https://drive.google.com/uc?id=1yp1d3NjtSwVKCIq2YCl28EwWhk7QVP64>",
+	"proof":"<https://fellowship.global-in.org/>"
+},
+{
+	"name":"Future Leaders",
+	"description": "Future Leaders Global leadership program in Norway",
+	"badge":"<https://drive.google.com/uc?id=1J4SGeVXEpknWwobKUYf1QwzgFeqxMNyL>",
+	"proof":"<https://futureleadersglobal.com/home>"
+},
+{
+	"name":"Young Ambassadors",
+	"description": "U.S. Embassy sponsored leadership program for talented high school students in Norway",
+	"badge":"<https://drive.google.com/uc?id=1RVF8vzTAhmNcaEttsJsAR0dVJIvyrI2I>",
+	"proof":"<https://www.youngambassadors.no/>"
+}
 ]
