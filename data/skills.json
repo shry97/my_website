@@ -1,8 +1,9 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
+      "grouping":"Programming languages (basic knowledge)",
+      "skills":[ "R","Python","Stata","html"]
+  },
+  {
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
   },
