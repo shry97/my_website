@@ -1,24 +1,24 @@
 [
   {
       "grouping":"Programming languages (basic knowledge)",
-      "skills":[ "R","Python","Stata","html"]
+      "skills":[ "R","Python","Stata","HTML"]
   },
   {
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"Languages",
+      "skills":[ "Norwegian (fluent)", "English (fluent)", "Tamil (fluent)", "French (basic)"  
+    
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Commerical software",
+      "skills":[ "Hubspot","Salesforce","Monday","Jira","Trello","Mailchimp", "KickoffLabs"]
   },
   {
-      "grouping":"Data Management",
+      "grouping":"Technical software",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+        "Tableau",
+        {"name":"Alteryx","icon":"database"},
+        "Excel","PowerPoint","GSuite",
+        "Microsoft Excel"]
   },
   {
     "grouping":"Containers & Cloud",
