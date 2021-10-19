@@ -1,33 +1,35 @@
 [
-{
-"name":"THINC Fellowship",
-"description": "THINC Fellowship program in collaboration with Tencent",
-"badge":"https://drive.google.com/uc?id=1ViZfKQqYkySHX6prJerLKekS0Odv-5vt",
-"proof":"https://www.thincfellowship.today/welcome?pgid=kq7ux34l-96440151-c6a6-4500-802d-900736d51e47"
-},
-{
-	"name":"Aspire Academy",
-	"description": "Aspire Academy leadership program in Romania",
-	"badge":"<https://drive.google.com/uc?id=1OogXYlNGwjVJpJ-bQF-HKQiBqCog-mdd>",
-	"proof":"<https://www.aspireacademy.ro/>"
+	{
+		"name":"THINC Fellowship",
+		"description": "THINC Fellowship program in collaboration with Tencent",
+		"badge":"https://drive.google.com/uc?id=1GmJ9UR30jiSMLsltqlGb0Ij6DM1MHT3C",
+		"proof":"https://www.thincfellowship.today/welcome?pgid=kq7ux34l-96440151-c6a6-4500-802d-900736d51e47"
 
-},
-{
-	"name":"Global-In Fellowship",
-	"description": "U.S. Embassy sponsored diplomacy and leadership program in Germany",
-	"badge":"<https://drive.google.com/uc?id=1yp1d3NjtSwVKCIq2YCl28EwWhk7QVP64>",
-	"proof":"<https://fellowship.global-in.org/>"
-},
-{
+	},
+	{
+		"name":"Global-In Fellowship",
+		"description": "U.S. Embassy sponsored diplomacy and leadership program in Germany",
+		"badge":"https://drive.google.com/uc?id=1--R-LVA5DKBK4g9rW8_GYntX8GExJASU",
+		"proof":"https://fellowship.global-in.org/"
+	},
+	{
+		"name":"Aspire Academy",
+		"description": "Aspire Academy leadership program in Romania",
+		"badge":"https://drive.google.com/uc?id=1cueNQermJLzSNNoc-BVJRHMkLP0kR8IX",
+		"proof":"https://www.aspireacademy.ro/"
+		
+	},
+	{
+		"name":"Young Ambassadors",
+		"description": "U.S. Embassy sponsored leadership program for talented high school students in Norway",
+		"badge":"https://drive.google.com/uc?id=1RVF8vzTAhmNcaEttsJsAR0dVJIvyrI2I",
+		"proof":"https://www.youngambassadors.no/"
+		
+	},
+	{
 	"name":"Future Leaders",
 	"description": "Future Leaders Global leadership program in Norway",
-	"badge":"<https://drive.google.com/uc?id=1J4SGeVXEpknWwobKUYf1QwzgFeqxMNyL>",
-	"proof":"<https://futureleadersglobal.com/home>"
-},
-{
-	"name":"Young Ambassadors",
-	"description": "U.S. Embassy sponsored leadership program for talented high school students in Norway",
-	"badge":"<https://drive.google.com/uc?id=1RVF8vzTAhmNcaEttsJsAR0dVJIvyrI2I>",
-	"proof":"<https://www.youngambassadors.no/>"
-}
+	"badge":"https://drive.google.com/uc?id=1J4SGeVXEpknWwobKUYf1QwzgFeqxMNyL",
+	"proof":"https://futureleadersglobal.com/home"
+	}
 ]
