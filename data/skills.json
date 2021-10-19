@@ -5,7 +5,7 @@
   },
   {
       "grouping":"Languages",
-      "skills":[ "Norwegian (fluent)", "English (fluent)", "Tamil (fluent)", "French (basic)"  
+      "skills":[ "Norwegian (fluent)", "English (fluent)", "Tamil (fluent)", "French (basic)"]  
     
   },
   {
@@ -16,18 +16,7 @@
       "grouping":"Technical software",
       "skills":[
         "Tableau",
-        {"name":"Alteryx","icon":"database"},
-        "Excel","PowerPoint","GSuite",
-        "Microsoft Excel"]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+        "AlteryX",
+        "Excel","PowerPoint","GSuite"]
   }
 ]
