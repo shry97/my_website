@@ -6,7 +6,7 @@ link: NA
 sitemap:
   priority: 0.6
   weight: 0.5
-title: Publications
+title: "Publications: Data Analysis Projects"
 weight: 10
 ---
 <!--
@@ -15,4 +15,4 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-A collection of articles, presentations or talks, most likely on Culture and DevOps, because let's admit it, they are one in the same ;)
+Here are a few examples of data analytics projects that I have conducted. They are mostly from my university classes in R, Python, and Stata at Minerva University and London Business School. 

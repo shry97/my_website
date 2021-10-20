@@ -31,7 +31,7 @@ params:
   showEducation: yes
   showExperience: yes
   showOpenSource: no
-  showProjects: no
+  showProjects: yes
   showPublications: yes
   showQr: no
   showSkills: yes
