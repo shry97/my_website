@@ -15,7 +15,7 @@ tags:
 - Regression
 - Australia
 - Sydney
-title: 'Analysis of AirBnb prices in Sydney Australia'
+title: 'Analysis of AirBnb prices in Sydney, Australia'
 weight: 400
 ---
 

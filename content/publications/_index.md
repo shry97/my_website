@@ -15,4 +15,4 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-Here are a few examples of data analytics projects that I have conducted. They are mostly from my university classes in R, Python, and Stata at Minerva University and London Business School. Feel free to take a look at the project code on my [Github account: shry97](https://github.com/shry97).
+Here are a few examples of data analytics projects that I have conducted. They are mostly from my university classes in R, Python, and Stata at Minerva University and London Business School. Feel free to take a look at my projects in my [GitHub account: shry97](https://github.com/shry97).
