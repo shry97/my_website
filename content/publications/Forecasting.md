@@ -1,5 +1,5 @@
 ---
-date: "2018-10-18"
+date: "2019-02-12"
 description: In August 2018, Norway's highest-earning billionaire, Einar Aas, lost his entire fortune and declared bankruptcy after betting wrong in the Nordic energy market. In this project, I am performing Holt-Winters Triple Exponential Smoothing technique to come up with a forecast for elspot prices in Oslo, and show where Einar Aas's model went wrong.
 fact: Interesting little tidbit shown below image on summary and detail page
 featured: true

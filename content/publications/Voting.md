@@ -1,5 +1,5 @@
 ---
-date: "2018-09-28"
+date: "2018-12-05"
 description: We wrote a decision memo on the implementation of E-voting in the European Union. Our memo was based running a genetic matching algorithm and extending the study conducted by Alvarez R. et al, which looks into citizens perception of e-voting in Salta, Argentina. We replicated their.
 
 fact: Interesting little tidbit shown below image on summary and detail page
